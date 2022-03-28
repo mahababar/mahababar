@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mahababar
 - 👀 I’m interested in ... programming, maybe.
-- 🌱 I’m currently study ... software engineering.
+- 🌱 I’m currently studying ... software engineering.
 - 💞️ I’m looking to ... get some sleep.
 - 📫 How to reach me ... don't.
 
